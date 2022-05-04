@@ -1,6 +1,6 @@
-name: kubectl-aws-eks
+name: geekhunter-kubectl-aws-eks
 description: "This action provides kubectl for Github Actions."
-author: 'Maksim Karpychev'
+author: 'GeekHunter Brasil'
 runs:
   using: 'docker'
   image: 'Dockerfile'
