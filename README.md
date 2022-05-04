@@ -1,8 +1,8 @@
 # Disclaimer
 
-This is a fork from https://github.com/marketplace/actions/kubectl-aws-eks, which merges PR https://github.com/GeekHunter-Brasil/kubectl-aws-eks/pull/20 to allow us to customize the `kubectl` version in our actions.
+This is a fork from https://github.com/marketplace/actions/kubectl-aws-eks, which merges PR https://github.com/kodermax/kubectl-aws-eks/pull/20 to allow us to customize the `kubectl` version in our actions.
 
-Since this is temporary, we'll remove this action from the Marketplace once the PR has been merged.
+Since this is temporary, we'll remove this action from the Marketplace once the original PR has been merged and released.
 
 # Docker and Github Action for Kubernetes CLI
 
