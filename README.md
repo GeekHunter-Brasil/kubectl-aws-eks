@@ -1,4 +1,10 @@
-# Disclaimer
+# ⚠️ Deprecation warning ⚠️
+
+The original GitHub action [has released a new version](https://github.com/kodermax/kubectl-aws-eks/releases/tag/1.1.0) to support customizing the `kubectl` version, so this action is now deprecated.
+
+So, it's ideal to use `kodermax/kubectl-aws-eks@master` in your action files.
+
+**Original description:**
 
 This is a fork from https://github.com/marketplace/actions/kubectl-aws-eks, which merges PR https://github.com/kodermax/kubectl-aws-eks/pull/20 to allow us to customize the `kubectl` version in our actions.
 
